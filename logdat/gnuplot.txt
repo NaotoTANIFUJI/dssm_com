@@ -1,0 +1,24 @@
+gnuplot
+
+
+Terminal type is now 'qt'
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 2:3 w lp pt 7 ps 0.5
+gnuplot> set grid
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 2:3 w lp pt 7 ps 0.5
+gnuplot> set xtics 1
+gnuplot> set ytics 0.01
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 2:3 w lp pt 7 ps 0.5
+gnuplot> set xtics 0.005
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 2:3 w lp pt 7 ps 0.5
+gnuplot> 
+
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 1:3 w lp pt 7 ps 0.5
+gnuplot> set grid
+gnuplot> set xtics 1
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 1:3 w lp pt 7 ps 0.5
+gnuplot> set ytics 0.1
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 1:3 w lp pt 7 ps 0.5
+gnuplot> set ytics 0.01
+gnuplot> plot "/home/haselab-08/test_viewer/logdat/bin/ima.dat" u 1:3 w lp pt 7 ps 0.5
+gnuplot> 
+
